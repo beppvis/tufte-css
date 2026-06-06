@@ -186,7 +186,7 @@ blockquote footer {
 section>p,
 section>footer,
 section>table {
-    width: 55%;
+    width: 80%;
 }
 
 /* 50 + 5 == 55, to be the same width as paragraph */
