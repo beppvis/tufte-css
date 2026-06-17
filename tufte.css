@@ -378,7 +378,7 @@ label.margin-toggle:not(.sidenote-number) {
     height: 100%;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 1400px) {
     body {
         width: 84%;
         /*
